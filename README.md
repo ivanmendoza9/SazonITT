@@ -37,3 +37,5 @@ El **cliente solo solicita el menú**, y la fábrica correspondiente lo genera.
 - 🎨 CSS
 - ⚡ JavaScript
 - 🧩 Patrón de diseño **Abstract Factory**
+
+
